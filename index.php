@@ -5,7 +5,7 @@ require 'inc/functions.php';
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title>Home - MyCryptoChat by HowTommy.net</title>
+    <title>Home - moja crypto stranica</title>
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <meta name="viewport" content="width=device-width" />
     <link href="styles/myCryptoChat.css" rel="stylesheet" />
